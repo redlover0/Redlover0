@@ -4,7 +4,7 @@
 
 I'm a young entrepreneur and student engineer passionate about building the future.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=redlover0&color=blueviolet)](https://github.com/redlover0)
+[![Profile Views](https://komarev.com/ghpvc/?username=username&color=blueviolet)](https://github.com/redlover0)
 
 </div>
 
