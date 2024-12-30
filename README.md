@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋🏾 Wassup, my name is Dhamari.
+# 👋🏾 Hello, my name is Dhamari.
 
 im the Head of Agency @CreateCoCreator & Founder of Party Hardy(in development)
 
