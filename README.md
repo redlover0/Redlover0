@@ -73,7 +73,7 @@ I'm a young entrepreneur and student engineer passionate about building the futu
 
 <div align="center">
 
-## 🤝 Let's Connect!
+## 🤝 Reachout!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhamari.th/)
