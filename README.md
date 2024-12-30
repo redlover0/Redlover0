@@ -14,7 +14,7 @@ im the Head of Agency @CreateCoCreator & Founder of Party Hardy(in development)
 
 ## How my story line is going right now
 
-**Current senior in high school** | **Google(Code Next) Student Engineer** | **Startup Founder**
+**Senior in high school** | **Google Code Next - Student Engineer** | **Startup Founder**
 
 </div>
 
