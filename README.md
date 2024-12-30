@@ -12,9 +12,9 @@ im the Head of Agency @CreateCoCreator & Founder of Party Hardy(in development)
 
 <div align="center">
 
-## 🚀 Quick Facts
+## How my story line is going right now
 
-**🎓 Senior in High School** | **💻 Google - Code Next Engineer** | **👨‍💼 Serial Entrepreneur**
+** High school senior** | ** Google (Code Next) Student Engineer** | ** Startup Entrepreneur **
 
 </div>
 
