@@ -14,7 +14,7 @@ I'm a young entrepreneur and student engineer passionate about building the futu
 
 ## 🚀 Quick Facts
 
-**🎓 Senior in High School** | **💻 Google Code Next Engineer** | **👨‍💼 Serial Entrepreneur**
+**🎓 Senior in High School** | **💻 Google - Code Next Engineer** | **👨‍💼 Serial Entrepreneur**
 
 </div>
 
@@ -23,17 +23,17 @@ I'm a young entrepreneur and student engineer passionate about building the futu
 ## 💫 About Me
 
 > [!NOTE]
-> Student engineer at Google Code Next (Data Science Track) with a passion for technology and innovation. Building companies that make a difference.
+> As a student engineer at Google Code Next, I am combine my passion for technology, innovation, and music entertainment to build companies and draft ideas that aim to a difference.
 
 ### 🏢 Current Ventures
 
 > [!IMPORTANT]
-> #### Create Co-Creator
-> - 📈 Scaled to 9 signups in 16 months
-> - 🌐 2M+ audience reach
+> #### Create Co-Creator - Founder
+> - 📈 Scaled to 9 signups in 4 months
+> - 🌐 2M+ audience reach - Primarily Gen Z audiences  
 > - 🎯 Fostering creativity and collaboration
 >
-> #### Sound Safety Innovation (In Development)
+> #### Party Harder with safe sound technology (In Development)
 > - 🔊 Making sound environments safer
 > - 🛠️ Innovative audio technology solutions
 > - 🌱 Mission-driven approach
