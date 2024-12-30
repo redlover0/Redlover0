@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hello, World!
+# 👋🏾 Wassup, my name is Dhamari.
 
-I'm a young entrepreneur and student engineer passionate about building the future.
+im the Head of Agency @CreateCoCreator & Founder of Party Hardy(in development)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=redlover0&color=blueviolet)](https://github.com/redlover0)
 
