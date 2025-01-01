@@ -31,7 +31,7 @@ im the Head of Agency @CreateCoCreator & Founder of Party Hardy(in development)
 > -  Scaled artist roster from 0 to 9 active sign ups in 4 months
 > -  2M+ audience reach - Primarily Gen Z audiences  
 > -  Collabrative team of 3
->
+> -
 > #### Party Harder with safe sound technology (In Development)
 > -  Imaging a world where sounds are safer
 > -  Passion driven venture
