@@ -20,12 +20,12 @@ im the Head of Agency @CreateCoCreator & Founder of Party Hardy(in development)
 
 ---
 
-## 💫 About Me
+## About Mari
 
 > [!Quick Bio]
 > As a student engineer at Google Code Next, I am combine my passion for technology, innovation, and music entertainment to build companies and draft ideas that aim to a difference.
 
-### 🏢 Current Ventures
+### Current Ventures
 
 > #### Create Co-Creator - Founder
 > -  Scaled artist roster from 0 to 9 active sign ups in 4 months
