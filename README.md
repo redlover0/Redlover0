@@ -22,21 +22,20 @@ im the Head of Agency @CreateCoCreator & Founder of Party Hardy(in development)
 
 ## 💫 About Me
 
-> [!NOTE]
+> [!Quick Bio]
 > As a student engineer at Google Code Next, I am combine my passion for technology, innovation, and music entertainment to build companies and draft ideas that aim to a difference.
 
 ### 🏢 Current Ventures
 
-> [!IMPORTANT]
 > #### Create Co-Creator - Founder
-> - 📈 Scaled to 9 signups in 4 months
-> - 🌐 2M+ audience reach - Primarily Gen Z audiences  
-> - 🎯 Fostering creativity and collaboration
+> -  Scaled artist roster from 0 to 9 active sign ups in 4 months
+> -  2M+ audience reach - Primarily Gen Z audiences  
+> -  Collabrative team of 3
 >
 > #### Party Harder with safe sound technology (In Development)
-> - 🔊 Making sound environments safer
-> - 🛠️ Innovative audio technology solutions
-> - 🌱 Mission-driven approach
+> -  Imaging a world where sounds are safer
+> -  Passion driven venture
+> -  in early start up stages
 
 ---
 
@@ -44,7 +43,7 @@ im the Head of Agency @CreateCoCreator & Founder of Party Hardy(in development)
 
 ## 💻 Technical Arsenal
 
-### Languages & Frameworks
+### Languages & Framework knowledgable
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -63,7 +62,7 @@ im the Head of Agency @CreateCoCreator & Founder of Party Hardy(in development)
 
 <div align="center">
 
-## 🔧 Areas of Focus
+## Processes
 
 **Data Science** • **Machine Learning** • **Entrepreneurship** • **Product Development** • **Growth Strategy**
 
@@ -80,6 +79,6 @@ im the Head of Agency @CreateCoCreator & Founder of Party Hardy(in development)
 
 ---
 
-*"Building the future, one project at a time."*
+*"Start synonymously to the finish line!*
 
 </div>
