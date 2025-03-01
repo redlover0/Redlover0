@@ -2,7 +2,7 @@
 
 # 👋🏾 Hello, my name is Dhamari.
 
-im the Head of Agency @CreateCoCreator & Founder of Party Hardy(in development)
+im the Head of Agency @CreateCoCreator & Founder of SafeSound(in development)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=redlover0&color=blueviolet)](https://github.com/redlover0)
 
