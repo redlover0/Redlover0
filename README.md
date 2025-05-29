@@ -22,7 +22,7 @@ im the Head of Agency @CreateCoCreator & Founder of SafeSound(in development)
 
 ## About Mari
 
-> [!Quick Bio]
+> [!IMPORTANT]
 > As a student engineer at Google Code Next, I am combine my passion for technology, innovation, and music entertainment to build companies and draft ideas that aim to a difference.
 
 ### Current Ventures
